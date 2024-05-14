@@ -10,12 +10,12 @@ Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a s
 - [Website](aryantechsource.blogspot.com)
 - [Twitter](https://twitter.com/rajaryan_28)
 
-## Skills
+## 💡Skills
 - Programming Languages: Python, SQL
 - Cloud Platforms: AWS (Certified CCP, Developer, and DevOps)
 - Tools & Technologies: Git, GitHub, Jenkins, Databricks, Kafka, PySpark, Spark, Terraform, Gensim, Snowflake, Pandas, NumPy!
 
-## Projects
+## 💻Projects
 My Project as a Developer & Data Engineer in Deloitte:
 
 1.Healthcare Project - Python & SQL
@@ -28,7 +28,7 @@ Contributed to a multifaceted AWS project, showcasing versatility with various A
 As a Data Engineer and Developer, I played a crucial role in two transformative business insurance projects. Utilizing Git, Python, and SQL, I orchestrated end-to-end data pipelines on AWS, enhancing development workflows through Jenkins. Embracing cloud-native solutions, I navigated intricacies of AWS services.
 Delving into big data technologies like Kafka, Hadoop, and Spark, I improved data processing capabilities. Streamlining deployment with Terraform showcased my commitment to optimizing infrastructure. This dynamic experience enabled me to navigate complex data scenarios and collaborate with Rally for agile project management.
 
-##  Awards
+##  🏆Awards
 Spot Award
 
 ## Get in Touch
