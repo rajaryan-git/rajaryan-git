@@ -28,7 +28,8 @@ Contributed to a multifaceted AWS project, showcasing versatility with various A
 As a Data Engineer and Developer, I played a crucial role in two transformative business insurance projects. Utilizing Git, Python, and SQL, I orchestrated end-to-end data pipelines on AWS, enhancing development workflows through Jenkins. Embracing cloud-native solutions, I navigated intricacies of AWS services.
 Delving into big data technologies like Kafka, Hadoop, and Spark, I improved data processing capabilities. Streamlining deployment with Terraform showcased my commitment to optimizing infrastructure. This dynamic experience enabled me to navigate complex data scenarios and collaborate with Rally for agile project management.
 
-Awards: Spot Award
+##  Awards
+Spot Award
 
 ## Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajaryan-profile/) or [Twitter](www.twitter.com/rajaryan_28) if you have any questions, suggestions, or just want to chat.
