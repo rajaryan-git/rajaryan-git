@@ -7,7 +7,7 @@ Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a s
 ## 🚀 Quick Links
 ⚡ [Portfolio](https://rajaryan-git.github.io/portfolio/)
 🔎 [LinkedIn](https://www.linkedin.com/in/rajaryan-profile/)
-🌐 [Website](aryantechsource.blogspot.com)
+🌐 [Website](https://aryantechsource.blogspot.com/)
 📱 [Twitter](https://twitter.com/rajaryan_28)
 
 ## 💡Skills
