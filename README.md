@@ -5,10 +5,10 @@
 Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a strong background in Python and AWS, having worked at Deloitte. Previously, I contributed to projects at SAP Labs. Passionate Python Developer specializing in Data Engineering on AWS and Databricks. Proficient in building end-to-end data pipelines, I leverage Git, SQL, and Jenkins for efficient development. Adept at cloud architecture, I excel in creating scalable solutions. Let's connect and explore opportunities in tech! 
 
 ## 🚀 Quick Links
-⚡ [Portfolio](https://rajaryan-git.github.io/portfolio/) \n
-🔎 [LinkedIn](https://www.linkedin.com/in/rajaryan-profile/)\n
-🌐 [Website](aryantechsource.blogspot.com)\n
--📱 [Twitter](https://twitter.com/rajaryan_28) \n
+⚡ [Portfolio](https://rajaryan-git.github.io/portfolio/)
+🔎 [LinkedIn](https://www.linkedin.com/in/rajaryan-profile/)
+🌐 [Website](aryantechsource.blogspot.com)
+📱 [Twitter](https://twitter.com/rajaryan_28)
 
 ## 💡Skills
 - Programming Languages: Python, SQL
