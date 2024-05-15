@@ -17,12 +17,15 @@ Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a s
 
 ## ✅Certification
 <p style="display: flex; justify-content: flex-start;">
-  [<img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS_CCP_lOGO" width="90"/>](https://cp.certmetrics.com/amazon/en/public/verify/credential/825D2W8K4JBEQ1GD)
+  <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS_CCP_lOGO" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Developer-Associate_badge.png" alt="AWS_DEV_lOGO" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-DevOps-Engineer-Professional_badge.png" alt="AWS_DevOps_lOGO" width="90"/>
 </p>
+
 #Credential Verification link:
-[Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/825D2W8K4JBEQ1GD)[Developer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7GXKX8P2X1QQ1E3K)[DevOps Engineer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7809a18e848c4e33810fbf1a98e2919c)
+[Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/825D2W8K4JBEQ1GD)
+[Developer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7GXKX8P2X1QQ1E3K)
+[DevOps Engineer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7809a18e848c4e33810fbf1a98e2919c)
  
 ## 👨🏻‍💻Projects
 My Project as a Developer & Data Engineer in Deloitte🟢:
