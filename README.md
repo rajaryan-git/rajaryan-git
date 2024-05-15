@@ -1,6 +1,6 @@
 ## 🤖About Me
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a strong background in Python and AWS, having worked at Deloitte. Previously, I contributed to projects at SAP Labs. Passionate Python Developer specializing in Data Engineering on AWS and Databricks. Proficient in building end-to-end data pipelines, I leverage Git, SQL, and Jenkins for efficient development. Adept at cloud architecture, I excel in creating scalable solutions. Let's connect and explore opportunities in tech! 
 
