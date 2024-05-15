@@ -16,15 +16,11 @@ Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a s
 - Tools & Technologies: Git, GitHub, Jenkins, Databricks, Kafka, AirFlow, PySpark, Spark, Terraform, GenAI, Snowflake, Pandas, NumPy!
 
 ## ✅Certification
-<div style="display: inline;">
+<p align="center">
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS_CCP_lOGO" width="100"/>
-</div>
-<div style="display: inline;">
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Developer-Associate_badge.png" alt="AWS_DEV_lOGO" width="100"/>
-</div>
-<div style="display: inline;">
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-DevOps-Engineer-Professional_badge.png" alt="AWS_DevOps_lOGO" width="100"/>
-</div>
+</p>
 
 ## 👨🏻‍💻Projects
 My Project as a Developer & Data Engineer in Deloitte🟢:
