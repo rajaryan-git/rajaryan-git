@@ -1,4 +1,4 @@
-# About Me
+## 🤖About Me
 
 ![Banner Image](link_to_banner_image)
 
@@ -15,7 +15,7 @@ Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a s
 - Cloud Platforms: AWS (Certified CCP, Developer, and DevOps)
 - Tools & Technologies: Git, GitHub, Jenkins, Databricks, Kafka, PySpark, Spark, Terraform, Gensim, Snowflake, Pandas, NumPy!
 
-## 💻Projects
+## 👨🏻‍💻Projects
 My Project as a Developer & Data Engineer in Deloitte:
 
 1.Healthcare Project - Python & SQL
