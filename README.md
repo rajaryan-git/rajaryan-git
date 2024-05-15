@@ -1,5 +1,5 @@
 ## 🤖About Me
-![Banner](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Banner" width="600"/>
 
 Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a strong background in Python and AWS, having worked at Deloitte. Previously, I contributed to projects at SAP Labs. Passionate Python Developer specializing in Data Engineering on AWS and Databricks. Proficient in building end-to-end data pipelines, I leverage Git, SQL, and Jenkins for efficient development. Adept at cloud architecture, I excel in creating scalable solutions. Let's connect and explore opportunities in tech! 
 
