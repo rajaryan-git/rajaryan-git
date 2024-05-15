@@ -16,7 +16,7 @@ Hello! I'm Aryan, a Cloud Data Engineer with two years of experience. I have a s
 - Tools & Technologies: Git, GitHub, Jenkins, Databricks, Kafka, AirFlow, PySpark, Spark, Terraform, GenAI, Snowflake, Pandas, NumPy!
 
 ## 👨🏻‍💻Projects
-My Project as a Developer & Data Engineer in Deloitte:
+My Project as a Developer & Data Engineer in Deloitte🟢:
 
 1.Healthcare Project - Python & SQL
 Played a pivotal role in a groundbreaking healthcare project, contributing to data workflows using Python and SQL. Enhanced data integration and analysis, fostering data-driven decision-making processes.
