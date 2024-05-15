@@ -2,7 +2,7 @@
 ![banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
 
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
-<h3 align="center">A passionate Cloud Data Engineer with two years of experience from Bangalore,India. I have a strong background in Python and AWS, having worked at Deloitte. Previously, I contributed to projects at SAP Labs. Passionate Python Developer specializing in Data Engineering on AWS and Databricks. Proficient in building end-to-end data pipelines, I leverage Git, SQL, and Jenkins for efficient development. Adept at cloud architecture, I excel in creating scalable solutions. Let's connect and explore opportunities in tech!</h3>
+<b2 align="center">A passionate Cloud Data Engineer with two years of experience from Bangalore,India. I have a strong background in Python and AWS, having worked at Deloitte. Previously, I contributed to projects at SAP Labs. Passionate Python Developer specializing in Data Engineering on AWS and Databricks. Proficient in building end-to-end data pipelines, I leverage Git, SQL, and Jenkins for efficient development. Adept at cloud architecture, I excel in creating scalable solutions. Let's connect and explore opportunities in tech!</b2>
 
  
 
