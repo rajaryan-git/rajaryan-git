@@ -39,7 +39,7 @@
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <br />
 
-.
+#
 ## 🎯Certification
 <p style="display: flex; justify-content: flex-start;">
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS_CCP_lOGO" width="90"/>
