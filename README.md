@@ -12,7 +12,7 @@
 🌐 [Website](https://aryantechsource.blogspot.com/)
 📱 [Twitter](https://twitter.com/rajaryan_28)
 
-### 💡Skills
+## 💡Skills
 - Programming Languages: Python, SQL
 - Cloud Platforms: AWS (Certified CCP, Developer, and DevOps)
 - Tools & Technologies: Git, GitHub, Jenkins, Databricks, Kafka, AirFlow, PySpark, Spark, Terraform, GenAI, Snowflake, Pandas, NumPy!
@@ -38,8 +38,7 @@
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <br />
-
-#
+.
 
 ## 🎯Certification
 <p style="display: flex; justify-content: flex-start;">
