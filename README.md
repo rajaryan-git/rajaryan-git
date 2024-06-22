@@ -10,8 +10,8 @@
 ⚡[Portfolio](https://rajaryan-git.github.io/portfolio/)
 🔎[LinkedIn](https://www.linkedin.com/in/rajaryan-profile/)
 🌐[Website](https://aryantechsource.blogspot.com/)
-📱[Twitter](https://twitter.com/rajaryan_28)
-💬[Dev.to](https://dev.to/rajaryan)
+💬[Twitter](https://twitter.com/rajaryan_28)
+📰[Dev.to](https://dev.to/rajaryan)
 
 ## 💡Skills
 - Programming Languages: Python, SQL
