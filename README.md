@@ -51,16 +51,18 @@
 <p style="display: flex; justify-content: flex-start;">
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS_CCP_lOGO" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Developer-Associate_badge.png" alt="AWS_DEV_lOGO" width="90"/>
-  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_DEV_lOGO" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-DevOps-Engineer-Professional_badge.png" alt="AWS_DevOps_lOGO" width="90"/>
+  <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_DEV_lOGO" width="90"/>
+  <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="Solution Architect Professional" width="90"/>
   <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP_Cloud_Enineer" width="90"/>
 </p>
 
 ✔️Certificate verification link:
 [Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/825D2W8K4JBEQ1GD)
 [Developer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7GXKX8P2X1QQ1E3K)
-[Solution Architect](https://cp.certmetrics.com/amazon/en/public/verify/credential/2b16b547c1ee4ccd8f368fa21741bc9b)
 [DevOps Engineer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7809a18e848c4e33810fbf1a98e2919c)
+[Solution Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/2b16b547c1ee4ccd8f368fa21741bc9b)
+[Solution Architect Professional]((https://cp.certmetrics.com/amazon/en/public/verify/credential/9b718a2ee9c74a40b428046cf606f6bb))
 [Associate Cloud Engineer](https://www.credly.com/badges/489ab483-b17b-4f07-bf1f-454fcaae29bc)
  
 ## 👨🏻‍💻Projects
