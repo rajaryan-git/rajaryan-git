@@ -62,7 +62,7 @@
 [Developer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7GXKX8P2X1QQ1E3K)
 [DevOps Engineer](https://cp.certmetrics.com/amazon/en/public/verify/credential/7809a18e848c4e33810fbf1a98e2919c)
 [Solution Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/2b16b547c1ee4ccd8f368fa21741bc9b)
-[Solution Architect Professional]((https://cp.certmetrics.com/amazon/en/public/verify/credential/9b718a2ee9c74a40b428046cf606f6bb))
+[Solution Architect Professional](https://cp.certmetrics.com/amazon/en/public/verify/credential/9b718a2ee9c74a40b428046cf606f6bb)
 [Associate Cloud Engineer](https://www.credly.com/badges/489ab483-b17b-4f07-bf1f-454fcaae29bc)
  
 ## 👨🏻‍💻Projects
