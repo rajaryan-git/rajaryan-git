@@ -19,7 +19,7 @@ I'm passionate about solving complex data challenges and utilizing cutting-edge 
 
 ## 💡Skills
 - Programming Languages: Python, Java, SQL
-- Cloud Platforms: AWS (Certified CCP, Developer, and DevOps), GCP(Cloud Engineer)
+- Cloud Platforms: AWS (Certified CCP, Developer, DevOps, Solution Architect Associate, Solution Architect Professional), GCP(Cloud Engineer)
 - Tools & Technologies: Git, GitHub, Jenkins, Databricks, Kafka, AirFlow, PySpark, Spark, Terraform, GenAI, Snowflake, Pandas, NumPy!
                
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
