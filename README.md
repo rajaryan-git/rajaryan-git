@@ -2,7 +2,11 @@
 ![banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
 
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
-<b2 align="center">I am a passionate Cloud Data Engineer with over 2.5 years of hands-on experience specializing in Data Engineering on AWS and Databricks. Proficient in Python, SQL, Spark, Git, and Jenkins, I excel in building efficient data pipelines and leveraging Terraform for cloud infrastructure. With expertise in AWS cloud services, I have worked on both data ingestion and domain-specific tasks, as well as SQL Server and other cutting-edge tools and technologies. Let's connect and explore exciting opportunities in tech! </b2>
+<b2 align="center">I am a passionate Cloud Data Engineer with over 2.5 years of hands-on experience specializing in Data Engineering on AWS and Databricks. My technical expertise includes Python, SQL, Spark, Git, and Jenkins, which I leverage to design and implement scalable and efficient data pipelines. I am adept at using Terraform to automate cloud infrastructure and have played a key role in migrating on-premises data to the cloud from multiple source systems.
+
+I have hands-on experience with Databricks Unity Catalog and Delta Lake, enabling secure, efficient, and organized data management. My work also encompasses AWS cloud services, data ingestion pipelines, domain-specific projects, and optimizing data workflows using SQL Server and modern data tools.
+
+I'm passionate about solving complex data challenges and utilizing cutting-edge cloud technologies to drive impactful solutions. </b2>
 
  
 
@@ -66,20 +70,22 @@
 [Associate Cloud Engineer](https://www.credly.com/badges/489ab483-b17b-4f07-bf1f-454fcaae29bc)
  
 ## 👨🏻‍💻Projects
-My Project as a Developer & Data Engineer in Deloitte🟢:
+My Projects as a Developer & Data Engineer in Deloitte:
 
-1.Healthcare Project - Python & SQL
-Played a pivotal role in a groundbreaking healthcare project, contributing to data workflows using Python and SQL. Enhanced data integration and analysis, fostering data-driven decision-making processes.
+1. Healthcare Project
 
-2.AWS Development Project - Diverse Cloud Services
-Contributed to a multifaceted AWS project, showcasing versatility with various AWS services. Gained hands-on experience in cloud architecture, deployment, and management, solidifying expertise in diverse cloud technologies. Achieved certifications in AWS as a Cloud Practitioner (CCP) and an Associate Developer, demonstrating proficiency in cloud technologies and development within the AWS ecosystem.
+Played a pivotal role in a groundbreaking healthcare project, contributing to ETL workflows using Python and SQL. Enhanced data integration and analysis, fostering data-driven decision-making processes while ensuring efficient data management practices.
 
-3.Business Insurance Project - Data Engineering on AWS
-As a Data Engineer and Developer, I played a crucial role in two transformative business insurance projects. Utilizing Git, Python, and SQL, I orchestrated end-to-end data pipelines on AWS, enhancing development workflows through Jenkins. Embracing cloud-native solutions, I navigated intricacies of AWS services.
-Delving into big data technologies like Kafka, Hadoop, and Spark, I improved data processing capabilities. Streamlining deployment with Terraform showcased my commitment to optimizing infrastructure. This dynamic experience enabled me to navigate complex data scenarios and collaborate with Rally for agile project management.
+2. AWS Development Project – Diverse Cloud Services
+
+Worked concurrently on this AWS project alongside the healthcare initiative to deepen my knowledge of cloud technologies. Showcased versatility by gaining hands-on experience with various AWS services, learning cloud architecture, deployment, and management. During this project, I achieved certifications as an AWS Certified Cloud Practitioner (CCP), Developer Associate, and Solutions Architect Associate, demonstrating my proficiency in the AWS ecosystem.
+
+3. Business Insurance Project – Migrating On-Premises Data to the Cloud
+
+Currently contributing to this transformative project as a Data Engineer and Developer. My responsibilities include migrating on-premises data from multiple source systems to the cloud using Python, SQL, ETL processes, AWS services, Databricks Unity Catalog, Delta Lake, Kafka, and Spark. I build and manage robust, end-to-end data pipelines while utilizing Jenkins for automation and Git for version control. Leveraging Terraform for Infrastructure as Code (IaC), I streamline cloud infrastructure deployment and management. This project involves integrating big data tools and technologies to enhance data processing capabilities and collaborating with Jira for agile project management.
 
 ##  🏆Awards
-Spot Award, PACE Award.
+Spot Award, PACE Award, Applause Award.
 
 ## 📧Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajaryan-profile/) or [Twitter](www.twitter.com/rajaryan_28) if you have any questions, suggestions, or just want to chat.
