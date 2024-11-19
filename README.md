@@ -3,7 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
 <b2 align="center">I am a passionate Cloud Data Engineer with over 2.5 years of hands-on experience specializing in Data Engineering on AWS and Databricks. My technical expertise includes Python, SQL, Spark, Git, and Jenkins, which I leverage to design and implement scalable and efficient data pipelines. I am adept at using Terraform to automate cloud infrastructure and have played a key role in migrating on-premises data to the cloud from multiple source systems.
+ 
 I have hands-on experience with Databricks Unity Catalog and Delta Lake, enabling secure, efficient, and organized data management. My work also encompasses AWS cloud services, data ingestion pipelines, domain-specific projects, and optimizing data workflows using SQL Server and modern data tools.
+
 I'm passionate about solving complex data challenges and utilizing cutting-edge cloud technologies to drive impactful solutions. </b2>
 
  
