@@ -85,7 +85,7 @@ Worked concurrently on this AWS project alongside the healthcare initiative to d
 Currently contributing to this transformative project as a Data Engineer and Developer. My responsibilities include migrating on-premises data from multiple source systems to the cloud using Python, SQL, ETL processes, AWS services, Databricks Unity Catalog, Delta Lake, Kafka, and Spark. I build and manage robust, end-to-end data pipelines while utilizing Jenkins for automation and Git for version control. Leveraging Terraform for Infrastructure as Code (IaC), I streamline cloud infrastructure deployment and management. This project involves integrating big data tools and technologies to enhance data processing capabilities and collaborating with Jira for agile project management.
 
 ##  🏆Awards
-Spot Award, PACE Award, Applause Award.
+Spot Award, Applause Award, PACE Award X 2.
 
 ## 📧Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajaryan-profile/) or [Twitter](www.twitter.com/rajaryan_28) if you have any questions, suggestions, or just want to chat.
