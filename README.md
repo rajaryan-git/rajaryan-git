@@ -58,7 +58,8 @@ I'm passionate about solving complex data challenges and utilizing cutting-edge 
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-DevOps-Engineer-Professional_badge.png" alt="AWS_DevOps_lOGO" width="90"/>
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_DEV_lOGO" width="90"/>
   <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="Solution Architect Professional" width="90"/>
-  <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP_Cloud_Enineer" width="90"/>
+  <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP_Cloud_Enineer" width="90"/>  
+  <img src="https://www.databricks.com/sites/default/files/2024-05/associate-badge-de.png?v=1717145547" alt="Databricks Data Engineer" width="70"/>
 </p>
 
 ✔️Certificate verification link:
@@ -68,6 +69,7 @@ I'm passionate about solving complex data challenges and utilizing cutting-edge 
 [Solution Architect Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/2b16b547c1ee4ccd8f368fa21741bc9b)
 [Solution Architect Professional](https://cp.certmetrics.com/amazon/en/public/verify/credential/9b718a2ee9c74a40b428046cf606f6bb)
 [Associate Cloud Engineer](https://www.credly.com/badges/489ab483-b17b-4f07-bf1f-454fcaae29bc)
+[Databricks Data Engineer](https://credentials.databricks.com/6cdf128b-4ecc-4f4c-b656-10b997ab1604)
  
 ## 👨🏻‍💻Projects
 My Projects as a Developer & Data Engineer in Deloitte:
