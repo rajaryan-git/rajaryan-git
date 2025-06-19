@@ -53,13 +53,14 @@ I'm passionate about solving complex data challenges and utilizing cutting-edge 
 
 ## 🎯Certification
 <p style="display: flex; justify-content: flex-start;">
+  <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP_Cloud_Enineer" width="90"/>  
+  <img src="https://www.databricks.com/sites/default/files/2024-05/associate-badge-de.png?v=1717145547" alt="Databricks Data Engineer" width="70"/>
+  <img src="https://i0.wp.com/www.kevinrchant.com/wp-content/uploads/2021/05/microsoft-certified-azure-data-engineer-associate.png?resize=339%2C339&ssl=1" alt="Azure Data Engineer" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS_CCP_lOGO" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-Developer-Associate_badge.png" alt="AWS_DEV_lOGO" width="90"/>
   <img src="https://github.com/rajaryan-git/rajaryan-Public-image/blob/main/AWS-Certified-DevOps-Engineer-Professional_badge.png" alt="AWS_DevOps_lOGO" width="90"/>
   <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS_DEV_lOGO" width="90"/>
   <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="Solution Architect Professional" width="90"/>
-  <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="GCP_Cloud_Enineer" width="90"/>  
-  <img src="https://www.databricks.com/sites/default/files/2024-05/associate-badge-de.png?v=1717145547" alt="Databricks Data Engineer" width="70"/>
 </p>
 
 ✔️Certificate verification link:
@@ -70,6 +71,7 @@ I'm passionate about solving complex data challenges and utilizing cutting-edge 
 [Solution Architect Professional](https://cp.certmetrics.com/amazon/en/public/verify/credential/9b718a2ee9c74a40b428046cf606f6bb)
 [Associate Cloud Engineer](https://www.credly.com/badges/489ab483-b17b-4f07-bf1f-454fcaae29bc)
 [Databricks Data Engineer](https://credentials.databricks.com/6cdf128b-4ecc-4f4c-b656-10b997ab1604)
+[Azure Data Engineer](https://learn.microsoft.com/api/credentials/share/en-gb/rajaryan/9713974E1FE9F226?sharingId=DA395BCA982579F0)
  
 ## 👨🏻‍💻Projects
 My Projects as a Developer & Data Engineer in Deloitte:
