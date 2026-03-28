@@ -2,11 +2,17 @@
 ![banner](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)
 
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
-<b2 align="center">I am a skilled Cloud Data Engineer with over 3 years of experience in Data Engineering, specializing in AWS and Databricks. My technical expertise includes Python, SQL, Spark, Git, and Jenkins, which I leverage to design and implement scalable and efficient data pipelines. I am adept at using Terraform to automate cloud infrastructure and have played a key role in migrating on-premises data to the cloud from multiple source systems.
+<b2 align="center">I am an AI & Cloud Data Engineer with close to 4 years of experience building scalable data and AI-driven solutions across diverse domains. I am currently working with QuantumBlack (AI by McKinsey), collaborating closely with global CXO-level stakeholders and leadership to deliver high-impact, business-driven solutions.
 
-I have hands-on experience with Databricks Unity Catalog and Delta Lake, enabling secure, efficient, and organized data management. My work also encompasses AWS cloud services, data ingestion pipelines, domain-specific projects, and optimizing data workflows using SQL Server and modern data tools.
+I work directly with clients on a day-to-day basis, including on-site engagements, translating complex business requirements into scalable, production-ready solutions and driving end-to-end ownership.
 
-I'm passionate about solving complex data challenges and utilizing cutting-edge cloud technologies to drive impactful solutions.</b2>
+My expertise includes Python, PySpark, SQL, Spark, Kafka, and Airflow for building robust data systems, APIs, and distributed systems. I am currently focused on AI, ML, agentic AI, and LLMs/Generative AI, leveraging tools like OpenAI, Gemini, Copilot, and Cursor to build intelligent systems.
+
+I bring strong experience in engineering and deployment, including CI/CD, Docker, Kubernetes, Terraform, and Jenkins, along with microservices-based architectures, strong software engineering practices, testing, and GitHub-based workflows.
+
+I have built end-to-end scalable solutions across cloud environments and follow agile methodologies using Jira to deliver effectively. I hold multiple certifications across AWS, Databricks, Microsoft Azure, and other modern data and AI technologies.
+
+Passionate about solving complex data and AI challenges, I focus on building intelligent, scalable, and impactful solutions.</b2>
 
  
 
