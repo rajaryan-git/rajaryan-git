@@ -24,9 +24,11 @@ Passionate about solving complex data and AI challenges, I focus on building int
 📰[Dev.to](https://dev.to/rajaryan)
 
 ## 💡Skills
-- Programming Languages: Python, Java, SQL
-- Cloud Platforms: AWS (Certified CCP, Developer, DevOps, Solution Architect Associate, Solution Architect Professional), GCP (Cloud Engineer)
-- Tools & Technologies: Git, GitHub, Jenkins, Docker, Databricks, Kafka, AirFlow, PySpark, Spark, Terraform, GenAI, Agentic AI, PostgreSQL, Snowflake, Pandas, NumPy!
+- **Programming Languages:** Python, Java, SQL  
+
+- **Cloud Platforms:** AWS (Certified CCP, Developer, DevOps Engineer, Solutions Architect Associate, Solutions Architect Professional), GCP (Cloud Engineer), Microsoft Azure  
+
+- **Tools & Technologies:** Git, GitHub, Jenkins, Docker, Kubernetes, Databricks, Kafka, Airflow, PySpark, Spark, Terraform, CI/CD, APIs, GenAI, LLMs, Agentic AI, OpenAI, Gemini, GitHub Copilot, Cursor, PostgreSQL, Snowflake, Pandas, NumPy, Testing & Deployment  
                
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
@@ -87,6 +89,15 @@ Passionate about solving complex data and AI challenges, I focus on building int
 [SnowPro Core Certified](https://www.credential.net/ed35bf78-3890-4f7d-b5eb-01aae104168b#acc.k3uEmv56)
  
 ## 👨🏻‍💻Projects
+My Work at McKinsey & Company (QuantumBlack – AI by McKinsey)
+
+Working as part of QuantumBlack (AI by McKinsey), contributing to high-impact AI, data engineering, and agentic AI solutions for global clients.
+
+- Building scalable data and AI systems, including LLM and Generative AI use cases using OpenAI, Gemini, and modern AI tools
+- Designing and developing data pipelines and distributed systems using Python, PySpark, SQL, Spark, Kafka, and Airflow
+- Driving end-to-end development and deployment, including APIs, CI/CD, Docker, Kubernetes, and Terraform
+- Collaborating closely with CXO stakeholders and cross-functional teams to deliver business-driven, production-ready solutions
+
 My Projects as a Developer & Data Engineer in Deloitte:
 
 1. Healthcare Project
